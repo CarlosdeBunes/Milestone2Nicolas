@@ -103,7 +103,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     3. As a First Time Visitor, I want to look for testimonials to understand what their users think of him and see if he is trusted. 
 
-        1. Once the new visitor has read the About me and looking at the Gallery, they will notice that Nicolas is a serirous worker.
+        1. Once the new visitor has read the About me and looking at the Gallery, they will notice that Nicolas is a serious worker.
         2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
     
 -   #### Returning Visitor Goals
