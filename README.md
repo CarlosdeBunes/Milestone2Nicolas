@@ -1,11 +1,9 @@
 # Milestone2Nicolas
-Building Construction
-# Nicolas
 Home renovation website
-<h1 id="logos">Croom Chess Academy</h1>
-[View the live project here.](https://carlosdebunes.github.io/Nicolas/)
+<h1 id="logos">Building Project Specialist</h1>
+[View the live project here.](https://carlosdebunes.github.io/Milestone2Nicolas/)
 
-This is a marketing website for Croom Chess Academy. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+This is a marketing website for Nicolas Building Company. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential customers.
 
 
 ## User Experience (UX)
@@ -14,27 +12,27 @@ This is a marketing website for Croom Chess Academy. It is designed to be respon
 
     -   #### First Time Visitor Goals
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about what the academy offers.
+        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about what Nicolas offers.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to look for testimonials to understand what their students think of the teacher and see if he is trusted. 
+        3. As a First Time Visitor, I want to look at the gallery photos to check Nicolas's previous work and see if he is trusted. 
 
     -   #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I want to find information about new offers and classes.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the academy with any questions I may have.
+        1. As a Returning Visitor, I want to find information about new offers Nicolas may have.
+        2. As a Returning Visitor, I want to find the best way to get in contact with Nicolas with any questions I may have.
 
     -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any newly added courses or offers
+        1. As a Frequent User, I want to check to see if there are any newly added offers.
   
 
 -   ### Design
     -   #### Colour Scheme
-        -   The three main colours used are red,green and white.
+        -   The three main colours used are blue,crimson and white.
     -   #### Typography
-        -   The Titillium Web font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
-            Titillium Web has a slightly techy feel, so it is both attractive and appropriate.
+        -   The Montserrat Web font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
+            Montserrat Web has a slightly techy feel, so it is both attractive and appropriate.
     -   #### Imagery
-        -   Imagery is important. The large 3 slides background images is designed to be striking and catch the user's attention. It had to be clear and of good quality so that the users were able to match them properly.
+        -   Imagery is important. The large 3 slides gallery images is designed to be striking and catch the user's attention. It had to be clear and of good quality so that the users were able to match them properly.
 
 *   ### Wireframes
 
