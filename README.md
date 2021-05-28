@@ -32,7 +32,7 @@ This is a marketing website for Nicolas Building Company. It is designed to be r
         -   The Montserrat Web font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
             Montserrat Web has a slightly techy feel, so it is both attractive and appropriate.
     -   #### Imagery
-        -   Imagery is important. The large 3 slides gallery images is designed to be striking and catch the user's attention. It had to be clear and of good quality so that the users were able to match them properly.
+        -   Imagery is important. The large 4 slides gallery images is designed to be striking and catch the user's attention. It had to be clear and of good quality so that the users were able to match them properly.
 
 *   ### Wireframes
 
