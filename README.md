@@ -147,7 +147,7 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Code
 
--   [JS](https://en.wikipedia.org/wiki/JavaScript): JS has been used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+-   [JS](https://en.wikipedia.org/wiki/JavaScript): JS has been used throughout the project mainly to make site responsive.
 
 
 ### Content
