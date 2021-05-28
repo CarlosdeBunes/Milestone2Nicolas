@@ -36,11 +36,11 @@ This is a marketing website for Nicolas Building Company. It is designed to be r
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/CarlosdeBunes/milestone1chess/tree/master/WIREFRAME/final_pc_wireframe.png)
+    -   Home Page Wireframe - [View](https://github.com/CarlosdeBunes/milestone2Nicolas/tree/master/WIREFRAME/final_pc_wireframe.png)
 
-    -   Mobile Wireframe - [View](https://github.com/CarlosdeBunes/milestone1chess/tree/master/WIREFRAME/final_mobile_wireframe.png)
+    -   Mobile Wireframe - [View](https://github.com/CarlosdeBunes/milestone2Nicolas/tree/master/WIREFRAME/final_mobile_wireframe.png)
     
-    -   Tablet Wireframe - [View](https://github.com/CarlosdeBunes/milestone1chess/tree/master/WIREFRAME/final_tablet_wireframe.png)
+    -   Tablet Wireframe - [View](https://github.com/CarlosdeBunes/milestone2Nicolas/tree/master/WIREFRAME/final_tablet_wireframe.png)
 
 
 ## Features
@@ -55,6 +55,7 @@ This is a marketing website for Nicolas Building Company. It is designed to be r
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+-   [JS](https://en.wikipedia.org/wiki/JavaScript)
 
 ### Frameworks, Libraries & Programs Used
 
@@ -83,8 +84,8 @@ This is a marketing website for Nicolas Building Company. It is designed to be r
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/CarlosdeBunes/milestone1chess/tree/master/screenshots/html_checker1.png)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/CarlosdeBunes/milestone1chess/tree/master/screenshots/css_validator.png)
+-   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/CarlosdeBunes/milestone2Nicolas/tree/master/screenshots/html_checker1.png)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/CarlosdeBunes/milestone2Nicolas/tree/master/screenshots/css_validator.png)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -92,32 +93,28 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the academy.
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a slide Images with Text and a "Start Learning" Call to action button.
-        2. The main points are made immediately with the slide images.
-        3. The user has different options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the academy and its offers.
+        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Image and a text showing Nicola's team and a his job's title.
+        2. The main points are made immediately with the image and the text.
+        3. The user has different options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about what Nicolas offers.
 
     2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
         1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-        2. At the bottom of every page, there is a button arrow to ensure the user always can go up the home page and doesn't feel trapped as they get to the bottom of the page.
 
     3. As a First Time Visitor, I want to look for testimonials to understand what their users think of him and see if he is trusted. 
 
-        1. Once the new visitor has read the About Us and Testimonials, they will notice that we are a serious academy.
+        1. Once the new visitor has read the About me and looking at the Gallery, they will notice that Nicolas is a serirous worker.
         2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
     
 -   #### Returning Visitor Goals
 
     1. As a Returning Visitor, I want to find the new offers.
 
-        1. These are clearly shown in the nav area.
-        2. They will be directed to a page where all the offers are and call to action.
+        1. These are clearly shown in the Services area.
 
     2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
 
-        1. The navigation bar clearly highlights the "GET STARTED" Page, which link to "CLASS DETAILS" section.
-        2. Here they can fill out the form on the page.
-        3. The footer contains links to the academy email and phone number.
+        1. The footer contains links to Nicolas's email and phone number.
 
 -   #### Frequent User Goals
 
@@ -150,12 +147,12 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Code
 
--   [Bootstrap4.6v](https://getbootstrap.com/docs/5.0/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+-   [JS](https://en.wikipedia.org/wiki/JavaScript): JS has been used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
 
 ### Content
 
--   All content was mostly written by the developer. Some parts of the testimonials were copied from chesskid.com
+-   All content was mostly written by the developer.
 
 ### Media
 
