@@ -84,7 +84,7 @@ This is a marketing website for Nicolas Building Company. It is designed to be r
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/CarlosdeBunes/milestone2Nicolas/tree/master/screenshots/html_checker1.png)
+-   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/CarlosdeBunes/milestone2Nicolas/tree/master/img/htmlvalidator.bmp)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/CarlosdeBunes/milestone2Nicolas/tree/master/img/cssvalidator.bmp)
 
 ### Testing User Stories from User Experience (UX) Section
