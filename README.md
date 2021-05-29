@@ -36,11 +36,11 @@ This is a marketing website for Nicolas Building Company. It is designed to be r
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/CarlosdeBunes/milestone2Nicolas/tree/master/WIREFRAME/final_pc_wireframe.png)
+    -   Home Page Wireframe - [View](https://github.com/CarlosdeBunes/milestone2Nicolas/tree/master/img/WIREFRAME_PC.png)
 
-    -   Mobile Wireframe - [View](https://github.com/CarlosdeBunes/milestone2Nicolas/tree/master/WIREFRAME/final_mobile_wireframe.png)
+    -   Mobile Wireframe - [View](https://github.com/CarlosdeBunes/milestone2Nicolas/tree/master/img/WIREFRAME_IPAD.png)
     
-    -   Tablet Wireframe - [View](https://github.com/CarlosdeBunes/milestone2Nicolas/tree/master/WIREFRAME/final_tablet_wireframe.png)
+    -   Tablet Wireframe - [View](https://github.com/CarlosdeBunes/milestone2Nicolas/tree/master/img/WIREFRAME_IPHONE.png)
 
 
 ## Features
@@ -73,11 +73,7 @@ This is a marketing website for Nicolas Building Company. It is designed to be r
     - GitHub is used to store the projects code after being pushed from Git.
 7. [Ionicons:](https://ionicons.com/)
     - Ionicon was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-7. [Responsinator:](http://www.responsinator.com/)
-    - Responsinator was used to check the site was responsive across all devices.
-    - [Results](https://github.com/CarlosdeBunes/milestone1chess/tree/master/screenshots/RESPONSINATOR.png)
-
-7. [Lucidchart:](https://www.lucidchart.com/)
+8. [Lucidchart:](https://www.lucidchart.com/)
     - Lucidchar: Lucidchar was used to create the wireframes during the design process.
 
 ## Testing
